@@ -1,0 +1,1 @@
+{‘host’: ‘localhost’, ‘database’: ‘suppliers’, ‘user’: ‘postgres’, ‘password’: ‘postgres’}
